@@ -1,1 +1,1 @@
-this is a new git file. add the new context.
+this is a new git file. add the new context.show the diff
